@@ -1,3 +1,6 @@
+## Link to Visit - https://665ce39682d8ef0452759cbb--gorgeous-elf-1be94a.netlify.app/
+![Screenshot_3-6-2024_25335_localhost](https://github.com/AmanShukla15/MAP_Frontend_Challenge_01/assets/94132741/e925aa67-ceae-4e22-b91a-8e3bfb8265e2)
+
 ## SampleCard1 Component
 
 The `SampleCard1` component displays a set of cards with information. It includes features like loading animation, card content, and navigation buttons for smooth scrolling.
